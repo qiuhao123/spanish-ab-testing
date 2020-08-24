@@ -13,4 +13,4 @@ appears that the non-localized translation was doing better!
 You are asked to:
 * Confirm that the test is actually negative. That is, it appears that the old version of the
 site with just one translation across Spain and LatAm performs better
-*Explain why that might be happening. Are the localized translations really worse?
+* Explain why that might be happening. Are the localized translations really worse?
